@@ -1,0 +1,11 @@
+botocore==1.21.59
+regex==2021.3.17
+numpy==1.20.1
+transformers==4.9.1
+six==1.15.0
+boto3==1.18.59
+requests==2.25.1
+tqdm==4.59.0
+accelerate==0.3.0
+torch==1.9.0
+tensorboardX==2.4
